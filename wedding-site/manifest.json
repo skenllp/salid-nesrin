@@ -1,0 +1,16 @@
+{
+  "name": "Muhammed Salid & Nesrin Nazeer - Together Forever",
+  "short_name": "M & N Wedding",
+  "description": "Wedding invitation microsite for Muhammed Salid and Nesrin Nazeer, 23rd August 2026, Aluva, Kerala.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#081D45",
+  "theme_color": "#0E2A66",
+  "icons": [
+    {
+      "src": "assets/images/icon-ball.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
